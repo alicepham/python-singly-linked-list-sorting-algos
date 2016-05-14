@@ -7,7 +7,8 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
-   ###talking to gitsadfja
+
+   ##
 
 '''A4_Q2_V9 testing all of the sorting methods'''
 
