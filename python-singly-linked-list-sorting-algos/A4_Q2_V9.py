@@ -12,8 +12,11 @@ class bcolors:
 
    ##hello
 
+<<<<<<< HEAD:A4_Q2_V9.py
    ##omg I can't
 
+=======
+>>>>>>> 7c0bb1dd4c5e84a964b6550307b7cf3fc0fe5baa:python-singly-linked-list-sorting-algos/A4_Q2_V9.py
 '''A4_Q2_V9 testing all of the sorting methods'''
 
 class Person:
